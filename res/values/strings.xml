@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="resetButton">reset</string>
+    <string name="fieldGoalButton">field goal</string>
+    <string name="touchDownButton">touchdown</string>
+    <string name="onePointButton">extra point</string>
+    <string name="twoPointButton">safety/2-pat</string>
+    <string-array name="teams_array">
+
+        <item>Alabama</item>
+        <item>Arkansas</item>
+        <item>Auburn</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Kentucky</item>
+        <item>LSU</item>
+        <item>Missouri</item>
+        <item>Mississippi State</item>
+        <item>Ole Miss</item>
+        <item>South Carolina</item>
+        <item>Tennessee</item>
+        <item>Texas A_M</item>
+        <item>Vanderbilt</item>
+    </string-array>
+</resources>

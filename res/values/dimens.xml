@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scoreSize">60sp</dimen>
+    <dimen name="buttonMargin">24dp</dimen>
+    <dimen name="spinnerHeight">60dp</dimen>
+</resources>
